@@ -1,4 +1,4 @@
-# 📊 Day 03 — Customer Analytics
+# 📊 Day 05 — Customer Analytics
 
 ## Business Analytics Learning Journey
 
